@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/ud851-Sunshine-student/UFCourses/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="baf49673354420b4ad60cd556087a96ec241d43c">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Sunshine-student/UFCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c3e67bd8ef272ed91d7855de5e7b9ed7d708db24/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-25.1.1_16c964d9de53feef4c5de6e5e02acac998c1a3c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.1.1_f8fba229983c7e8288f27ff7a294df998f25e636.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_f8fba229983c7e8288f27ff7a294df998f25e636/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/ud851-Sunshine-student/UFCourses/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Sunshine-student/UFCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_37d52d767a40c100c0a0215498fa844b7ef470c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/ud851-Sunshine-student/UFCourses/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Sunshine-student/UFCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_db1503c2cc5425ece59e9e30dc5d099f29e4ca90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_f7b6b743211eaf8e7ee20b5292ccb423e37d8278/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/ud851-Sunshine-student/UFCourses/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Sunshine-student/UFCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_f60901ddb58f82cb72217caeaa11112bd22ca5db/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.1.1_f7b6b743211eaf8e7ee20b5292ccb423e37d8278.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_39f15eb94384a669c89abe88532d764fd434ffd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a87d5d857f8ae9a84a2beff383630abb0bb2a8ef">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3805970036139e605cf3dd8f5ba21abd4f57302c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/ud851-Sunshine-student/UFCourses/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Sunshine-student/UFCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_77779ec210f14f1925ca23c4a85359896761c1ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_977bf348de6faf1e3ea84318c41a27aee337d766/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.1.1_39f15eb94384a669c89abe88532d764fd434ffd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.1.1_977bf348de6faf1e3ea84318c41a27aee337d766.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_16c964d9de53feef4c5de6e5e02acac998c1a3c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e87775c5879409ed7a0b35ea1f91baebc758a9c4">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5c6f24366b240e4a3017b1f0b8ced32e1c7f7f81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/ud851-Sunshine-student/UFCourses/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Sunshine-student/UFCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_3ea0a1f4ff031c0fb3cdb1d97538ec0d05cd7e61/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/pre-dexed/release/support-annotations-25.1.1_56903d00d35ee5bb93152f88122d36d6b9f0282a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Sunshine-student/UFCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_56903d00d35ee5bb93152f88122d36d6b9f0282a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/ud851-Sunshine-student/UFCourses/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Sunshine-student/UFCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_caf2ed70cafcd591d9083512cfe348d3d5eb0894/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/ud851-Sunshine-student/UFCourses/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Sunshine-student/UFCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_8c10b317e559f12c49f5db1334fbe479065d674a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.1.1_d05122150bc4cdfe11d1be19bfa4bc49300250e2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_93294735a4230331ebad2ac07edc5b738fd493c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.1.1_93294735a4230331ebad2ac07edc5b738fd493c7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_d05122150bc4cdfe11d1be19bfa4bc49300250e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.1.1_4d15b94f72d3a56b05bd959cb835367d4ad59c0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.1.1_9773dbed0e71123c08fa58aefce75e838c64eb63.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/ud851-Sunshine-student/UFCourses/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Sunshine-student/UFCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_637574dd2b94eae396323eb1371944f82ce269ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/ud851-Sunshine-student/UFCourses/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="87d681b18b1181117f5928a6bd4fc9a5fcd4870a">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Sunshine-student/UFCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6b017f0447b200e21bd8e2a3494ee62d04945d6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/ud851-Sunshine-student/UFCourses/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/sanket/Desktop/Android/ud851-Sunshine-student/UFCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_bebc262c589cbcafccc63550b68678c2f30ef262/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_4d15b94f72d3a56b05bd959cb835367d4ad59c0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/sanket/Desktop/Android/MyApps/UFCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_9773dbed0e71123c08fa58aefce75e838c64eb63/classes.dex" />
+    </item>
+
+</items>

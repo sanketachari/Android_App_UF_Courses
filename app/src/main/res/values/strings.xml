@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">UF CS</string>
+    <string name="country_prompt">Choose a department</string>
+
+    <string-array name="department">
+        <item>Computer Science</item>
+        <!--<item>Mechanical</item>
+        <item>Electrical</item>-->
+    </string-array>
+
+    <string-array name="program">
+        <item>Graduate</item>
+        <!--<item>Undergraduate</item>
+        <item>PhD</item>-->
+    </string-array>
+
+    <string-array name="semester">
+        <item>Spring</item>
+        <item>Fall</item>
+        <item>Summer</item>
+    </string-array>
+
+    <string name="action_share">Share</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
