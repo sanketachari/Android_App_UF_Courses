@@ -11,11 +11,11 @@
 ## After Submit 
 
 <br>
-![alt text](https://cloud.githubusercontent.com/assets/3675893/22770211/bed8ed9c-ee5c-11e6-869f-1c80ed7106f6.png "After Selection")    
+![alt text](https://cloud.githubusercontent.com/assets/3675893/22770211/bed8ed9c-ee5c-11e6-869f-1c80ed7106f6.png) 
 
 <br>
 <br>
 ## Expandable View
 
 <br>
-![alt text](https://cloud.githubusercontent.com/assets/3675893/22770210/bed8356e-ee5c-11e6-876b-d3f1d26aed26.png "Expandable View")
+![alt text](https://cloud.githubusercontent.com/assets/3675893/22770210/bed8356e-ee5c-11e6-876b-d3f1d26aed26.png)
